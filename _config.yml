@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Xiaolin Ren"
   avatar           : "profile1.png"
-  <img width="1000" height="1000" />
+ <img src="" width="300" height="450" />
   bio              : "it's what you do that defines you."
   location         : "China"
  # employer         :
