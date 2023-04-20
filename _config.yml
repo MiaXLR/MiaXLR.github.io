@@ -87,8 +87,8 @@ author:
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   email            : "renxl98@outlook.com"
-  researchgate     :  example: "https://www.researchgate.net/profile/Xiaolin-Ren-9"
-  github           : "academicpages"
+  researchgate     : "https://www.researchgate.net/profile/Xiaolin-Ren-9"
+  github           : "https://github.com/MiaXLR"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   linkedin         :
   orcid            : "https://orcid.org/0000-0002-4166-8512"
