@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xiaolin Ren / Personal Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Xiaolin Ren"
 description              : &description "Master of Dental Surgery,Sichuan University"
@@ -40,7 +40,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "md5"
+    email                : "renxl98@outlook.com/renxiaolin@stu.scu.edu.cn"
   generatedFields:
     date:
       type               : "date"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   email            : "renxl98@outlook.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/Xiaolin-Ren-9"
+  researchgate     :  example: "https://www.researchgate.net/profile/Xiaolin-Ren-9"
   github           : "academicpages"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   linkedin         :
